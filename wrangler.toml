@@ -5,4 +5,4 @@ compatibility_date = "2024-01-01"
 [[d1_databases]]
 binding = "DB"
 database_name = "keepotion-db"
-database_id = "keepotion-db"
+database_id = "85a514ee-e0df-416b-aed0-57f673a93cb6"
